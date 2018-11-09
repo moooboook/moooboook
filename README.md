@@ -3,8 +3,8 @@ moooboook library
 
 ---
 
-*** hello ***
+hello
 
--x- hi
+hi
 
 ---
